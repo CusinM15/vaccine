@@ -22,7 +22,7 @@ A Django REST API for managing vaccination appointments and user registrations.
 
 ```bash
 git clone https://github.com/CusinM15/vaccination.git
-cd vaccination-api
+cd vaccination
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
